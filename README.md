@@ -1,8 +1,8 @@
 ### Hi there, I'm Santiago 👋
 ## Software developer from pretty Manizales 🇨🇴
 
-- 🌱 I’m currently learning microservices in spring boot
-- 👨‍🏫 I love to share my kownledge with others!
+- 🌱 I’m currently learning how to build microservices with spring boot
+- 👨‍🏫 I love to share my knowledge with others!
 - 👯 I’m looking to collaborate with others
 - 🤓 I'm fascinated about the complex mathematics behind mobile app animations
 - 💪 I want to return back something to the Java community that has gave me so much, hopefully as a content creator
