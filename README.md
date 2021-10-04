@@ -7,6 +7,7 @@
 - 🤓 I'm fascinated about the complex mathematics behind mobile app animations
 - 💪 I want to return back something to the Java community that has gave me so much, hopefully as a content creator
 - 🥅 2022 Goals: I want to become a native android developer ✨
+- 🔥 I like a good code challenge from time to time <img align="bottom" src="https://www.codewars.com/users/codeSantiago/badges/small" alt="Codewars badge" />
 
 #### Languages, frameworks and tools
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png">](https://www.java.com)
