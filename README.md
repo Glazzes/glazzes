@@ -1,5 +1,5 @@
-## Hi there, I'm Santiago 👋
-### Sofwate developer from pretty Manizales 🇨🇴
+### Hi there, I'm Santiago 👋
+## Sofwate developer from pretty Manizales 🇨🇴
 
 - 🌱 I’m currently learning microservices in spring boot
 - 👨‍🏫 I love to share my kownledge with others!
