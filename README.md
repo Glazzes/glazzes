@@ -5,7 +5,7 @@
 - 👨‍🏫 I love to share my knowledge with others!
 - 👯 I’m looking to collaborate with others
 - 🤓 I'm fascinated about the complex mathematics behind mobile app animations
-- 💪 I want to return back something to the Java community that has gave me so much, hopefully as a content creator
+- 💪 I want to give back something to the Java community from which i've learned so much, hopefully as a content creator
 - 🥅 2022 Goals: I want to become a native android developer ✨
 - 🔥 I like a good code challenge from time to time <img align="bottom" src="https://www.codewars.com/users/codeSantiago/badges/small" alt="Codewars badge" />
 
