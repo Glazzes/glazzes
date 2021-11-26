@@ -5,7 +5,7 @@ Programming is such a fascinating task, you can mix your creativity along with a
 I may not be the best at what i do, but i'm always willing to learn new stuff and share what i know with others.
 
 - 🌱 I'm currently learning GLSL and HTTP protocol
-- 📙 I'm currently reading [a programmer's guide to computer science vol 1](https://www.amazon.com/-/es/Dr-William-M-Springer-II/dp/195120400X)
+- 📙 I'm currently reading [A programmer's guide to computer science vol 1](https://www.amazon.com/-/es/Dr-William-M-Springer-II/dp/195120400X)
 - 🥅 2022 Goals: I want to become a native android developer ✨
 - 🔥 I like a good code challenge from time to time <img align="bottom" src="https://www.codewars.com/users/Glazzes/badges/small" alt="Codewars badge" />
 
