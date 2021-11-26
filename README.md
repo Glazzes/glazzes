@@ -1,11 +1,11 @@
 ### Hi there, I'm Santiago 👋
 ## Mobile & Backend developer from pretty Manizales 🇨🇴
-Programming is such a fascinating task, you can combine creativity along with a very technical mindset, such as building mobile app animations along with trigronometry, two things that could be less alike working together to create an awesome result.
+Programming is such a fascinating task, you can mix your creativity along with a very technical mindset, such as building mobile app animations along with trigronometry, two things that could not be less alike working together to produce an awesome result.
 
-I may not be the best at what i do, but i'm always willing to try out new stuff and share what i know with others.
+I may not be the best at what i do, but i'm always willing to learn new stuff and share what i know with others.
 
 - 🌱 I'm currently learning GLSL and HTTP protocol
-- 📙 I'm urrently reading [a programmer's guide to computer science vol 1](https://www.amazon.com/-/es/Dr-William-M-Springer-II/dp/195120400X)
+- 📙 I'm currently reading [a programmer's guide to computer science vol 1](https://www.amazon.com/-/es/Dr-William-M-Springer-II/dp/195120400X)
 - 🥅 2022 Goals: I want to become a native android developer ✨
 - 🔥 I like a good code challenge from time to time <img align="bottom" src="https://www.codewars.com/users/Glazzes/badges/small" alt="Codewars badge" />
 
