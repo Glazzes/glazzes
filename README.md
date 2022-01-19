@@ -1,18 +1,19 @@
 ### Hi there, I'm Santiago 👋
 ## Mobile & Backend developer from pretty Manizales 🇨🇴
-Programming is such a fascinating task, you can mix your creativity along with a very technical mindset, such as building mobile app animations along with trigronometry, two things that could not be less alike working together to produce an awesome result.
-
-I may not be the best at what i do, but i'm always willing to learn new stuff and share what i know with others.
+Programming is such a fascinating task, it does not matter whether you have a technical or creative mindset, there may be something for you, from creating
+awesome mobile animations to microservices, i truly find pleasure on trying new stuff regardless of which area this one is, there will always be something
+new and interesting to try. so why wouldn't we try it?
 
 - 🌱 I'm currently learning:
+  - Gradle
   - HTTP protocol
   - Firebase
   - Game dev math, complex mobile interactions require some math
 - 📙 I'm currently reading [A programmer's guide to computer science vol 1](https://www.amazon.com/-/es/Dr-William-M-Springer-II/dp/195120400X)
-- 🥅 2022 Goals: I want to become a native android developer ✨
+- 🥅 2022 My ultimate goal: I want to become a native android developer ✨
 - 🔥 I like a good code challenge from time to time <img align="bottom" src="https://www.codewars.com/users/Glazzes/badges/small" alt="Codewars badge" />
 
-#### Languages, frameworks and tools
+#### Technologies i use
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Java" src="./assets/java.png">](https://www.java.com)
 [<img astyle="float: left; margin-right: 10px" width="35px" height="35px" alt="Kotlin" src="./assets/kotlin.png">](https://kotlinlang.org/)
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Typescript" src="./assets/typescript.png">](https://www.typescriptlang.org/)
