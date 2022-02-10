@@ -10,7 +10,7 @@ new and interesting to try. so why wouldn't we try it?
   - Kubernetes
   - Game dev math, complex mobile interactions require some math
 - 📙 I'm currently reading [A programmer's guide to computer science vol 1](https://www.amazon.com/-/es/Dr-William-M-Springer-II/dp/195120400X)
-- 🥅 My ultimate goal: I want to become a devops engineer ✨
+- 🥅 2022 goals: develop native android apps! ✨
 - 🔥 I like a good code challenge from time to time <img align="bottom" src="https://www.codewars.com/users/Glazzes/badges/small" alt="Codewars badge" />
 
 #### Technologies i use
