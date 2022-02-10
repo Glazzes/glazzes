@@ -6,11 +6,11 @@ new and interesting to try. so why wouldn't we try it?
 
 - 🌱 I'm currently learning:
   - Gradle
-  - HTTP protocol
-  - Firebase
+  - Spring boot microservices
+  - Kubernetes
   - Game dev math, complex mobile interactions require some math
 - 📙 I'm currently reading [A programmer's guide to computer science vol 1](https://www.amazon.com/-/es/Dr-William-M-Springer-II/dp/195120400X)
-- 🥅 2022 My ultimate goal: I want to become a native android developer ✨
+- 🥅 My ultimate goal: I want to become a devops engineer ✨
 - 🔥 I like a good code challenge from time to time <img align="bottom" src="https://www.codewars.com/users/Glazzes/badges/small" alt="Codewars badge" />
 
 #### Technologies i use
