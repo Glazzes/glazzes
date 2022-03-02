@@ -19,5 +19,6 @@ new and interesting to try. so why wouldn't we try it?
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Typescript" src="./assets/typescript.png">](https://www.typescriptlang.org/)
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="React and React native" src="./assets/react.png">](https://es.reactjs.org/)
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Spring boot" src="./assets/spring.png">](https://spring.io/projects/spring-boot)
-[<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Postgresql" src="./assets/postgres.png">](https://www.postgresql.org/)
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Docker" src="./assets/docker.png">](https://www.docker.com/)
+[<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Docker" src="./assets/kubernetes.png">](https://kubernetes.io/)
+[<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Postgresql" src="./assets/postgres.png">](https://www.postgresql.org/)
