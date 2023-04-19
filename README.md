@@ -1,18 +1,19 @@
 ### Hi there, I'm Santiago 👋
-## Mobile & Backend developer from pretty Manizales 🇨🇴
+## Software developer from pretty Manizales 🇨🇴
 Programming is such a fascinating task, it does not matter whether you have a technical or creative mindset, there may be something for you, from creating
 awesome mobile animations to microservices, I truly find pleasure on trying new stuff regardless of which area this one is, there will always be something
 new and interesting to try. so why wouldn't we try it?
 
-- 🌱 I'm currently instered in:
+- 🌱 I'm currently studying:
   - Spring boot
+  - Gradle
+  - Micro services
   - React native
   - Math, complex mobile interactions require some math
-- 📙 I'm currently reading [So good, they can't ignore you](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124)
-- 🥅 2023 goals: develop native ios apps! ✨
+- 🥅 One of my personal goals it's to develop native IOS apps ✨
 - 🔥 I like a good code challenge from time to time <img align="bottom" src="https://www.codewars.com/users/Glazzes/badges/small" alt="Codewars badge" />
 
-#### Technologies i use
+#### My tech stack (Skills)
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Java" src="./assets/java.png">](https://www.java.com)
 [<img astyle="float: left; margin-right: 10px" width="35px" height="35px" alt="Kotlin" src="./assets/kotlin.png">](https://kotlinlang.org/)
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Typescript" src="./assets/typescript.png">](https://www.typescriptlang.org/)
