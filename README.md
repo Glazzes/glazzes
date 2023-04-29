@@ -4,12 +4,10 @@ Programming is such a fascinating task, it does not matter whether you have a te
 awesome mobile animations to microservices, I truly find pleasure on trying new stuff regardless of which area this one is, there will always be something
 new and interesting to try. so why wouldn't we try it?
 
-- 🌱 I'm currently studying:
-  - Spring boot
+- 🌱 I'm currently learning more about the following topics:
   - Gradle
-  - Micro services
-  - React native
-  - Math, complex mobile interactions require some math
+  - Spring Cloud, Micro services
+  - Math with a foucs in UI interactions
 - 🥅 One of my personal goals it's to develop native IOS apps ✨
 - 🔥 I like a good code challenge from time to time <img align="bottom" src="https://www.codewars.com/users/Glazzes/badges/small" alt="Codewars badge" />
 
