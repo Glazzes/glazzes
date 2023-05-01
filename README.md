@@ -1,8 +1,5 @@
-### Hi there, I'm Santiago 👋
-## Software developer from pretty Manizales 🇨🇴
-Programming is such a fascinating task, it does not matter whether you have a technical or creative mindset, there may be something for you, from creating
-awesome mobile animations to microservices, I truly find pleasure on trying new stuff regardless of which area this one is, there will always be something
-new and interesting to try. so why wouldn't we try it?
+## Pedal To The Metal !
+Hi there! I'm Santiagoo an enthusiast software developer from Manizales, Colombia. Programming is such a fascinating skill to me, it does not matter whether you have a technical or creative mindset, there may be something for you, from creating awesome mobile animations to microservices, i truly find pleasure on trying new stuff regardless of which area this one is, there will always be something new and interesting to try. so why wouldn't we try it?
 
 - 🌱 I'm currently learning more about the following topics:
   - Gradle
