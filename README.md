@@ -9,6 +9,7 @@ I'm an enthusiast software developer from Manizales, Colombia. I've developing f
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Java" src="./assets/java.png">](https://www.java.com)
 [<img astyle="float: left; margin-right: 10px" width="35px" height="35px" alt="Kotlin" src="./assets/kotlin.png">](https://kotlinlang.org/)
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Spring boot" src="./assets/spring.png">](https://spring.io/projects/spring-boot)
+[<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Spring boot" src="./assets/gradle.png">](https://gradle.org/)
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Typescript" src="./assets/typescript.png">](https://www.typescriptlang.org/)
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="React and React native" src="./assets/react.png">](https://es.reactjs.org/)
 [<img style="float: left; margin-right: 10px" width="35px" height="35px" alt="Docker" src="./assets/docker.png">](https://www.docker.com/)
